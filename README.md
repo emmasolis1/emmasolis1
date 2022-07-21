@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Scientist & Software Developer
 ---------------------------------------
 
-I have been learning about AI, ML, Cybersecurity and Software Development since I was in the university, I like keeping up with the latest technologies and tools, and study more about these topics on me own.
+I have been learning about AI, ML, Cybersecurity and Software Development since my early years in the university, I like keeping up with the latest technologies and tools, and study more about these topics on me own.
 
 *   🌍  I'm based in Costa Rica.
 *   🖥️  See my portfolio at [GitHub](http://github.com/emasp2001/portfolio).
