@@ -58,4 +58,14 @@ I have been learning about AI, ML, Cybersecurity and Software Development since 
 <a href="https://github.com/emasp2001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emasp2001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>
 
 ### Top Repositories
-</b><div width="100%" align="center"><a href="https://github.com/emasp2001/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emasp2001&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+</b>
+<div width="100%" align="center">
+<a href="https://github.com/emasp2001/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emasp2001&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+<a href="https://github.com/emasp2001/pi-databases_softwareEngineering" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emasp2001&repo=pi-databases_softwareEngineering&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+<a href="https://github.com/emasp2001/mobile_apps" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emasp2001&repo=mobile_apps&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+<a href="https://github.com/emasp2001/web_apps" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emasp2001&repo=web_apps&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
