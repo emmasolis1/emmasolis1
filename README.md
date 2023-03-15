@@ -9,7 +9,7 @@ I have been learning about AI, ML, Cybersecurity and Software Development since 
 *   🌍  I'm based in Costa Rica.
 *   🖥️  See my portfolio at [GitHub](http://github.com/emasp2001/portfolio).
 *   ✉️  You can contact me at [usa.emmanuel@icloud.com](mailto:usa.emmanuel@icloud.com).
-*   🚀  I'm currently working on [Equifax](http://www.equifax.com).
+*   🚀  I'm currently working in [Equifax](http://www.equifax.com).
 *   🧠  I'm learning Cybersecurity.
 *   🤝  I'm open to collaborating on Mobile Apps and Machine Learning Models.
 *   ⚡  I speak English 🇺🇸, Spanish 🇪🇸, and soon French🇫🇷.
