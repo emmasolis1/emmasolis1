@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Solis
 ======================================================================================================================================
 
-Computer Scientist & Software Developer
+Cybersecurity 🔒 & Software Developer 👨🏻‍💻
 ---------------------------------------
 
-I have been learning about AI, ML, Cybersecurity and Software Development since my early years in the university, I like keeping up with the latest technologies and tools, and study more about these topics on me own.
+I have been learning about Cybersecurity, Machine Learning and Software Development since my early years in the university, I like keeping up with the latest technologies and tools.
 
-*   🌍  I'm based in Costa Rica.
+*   🌍  I'm based in Costa Rica (willing to relocate).
 *   🖥️  See my portfolio at [GitHub](http://github.com/emasp2001/portfolio).
 *   ✉️  You can contact me at [usa.emmanuel@icloud.com](mailto:usa.emmanuel@icloud.com).
-*   🚀  I'm currently working in [Equifax](http://www.equifax.com).
-*   🧠  I'm learning Cybersecurity.
-*   🤝  I'm open to collaborating on Mobile Apps and Machine Learning Models.
+*   🚀  I'm currently working at [Equifax](http://www.equifax.com) in Cybersecurity.
+*   🧠  I'm studying to become a Pentester.
+*   🤝  I'm open to questions and collaborate in projects.
 *   ⚡  I speak English 🇺🇸, Spanish 🇪🇸, and soon French🇫🇷.
 
 ### Skills
