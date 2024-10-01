@@ -13,8 +13,14 @@ I’m a passionate cybersecurity professional with a focus on red teaming and pe
 
 ### Certifications
 <p align="center">
-<a href="https://www.github.com/emasp2001" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/86241211" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
+<a href="https://www.github.com/emasp2001" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114045944" width="40" height="40" /></a> 
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109125135" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/86241211" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.emmanuelsolis.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
 
 ### Skills
