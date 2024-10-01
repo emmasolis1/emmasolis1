@@ -19,7 +19,8 @@ I’m a passionate cybersecurity professional with a focus on red teaming and pe
 <a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85592722" width="60" height="60" /></a>
 <a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83841692" width="60" height="60" /></a>
 <a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82089113" width="60" height="60" /></a>
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fce2c229-f8e4-46cf-aa40-c5f46924e580" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.emmanuelsolis.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
 
