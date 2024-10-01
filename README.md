@@ -19,14 +19,14 @@ I’m a passionate cybersecurity professional with a focus on red teaming and pe
 <a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="50" height="50" /></a>
 <a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="50" height="50" /></a>
 <a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="50" height="50" /></a>
-<a href="https://www.github.com/emasp2001" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114045944" width="60" height="60" /></a>
+<a href="https://certified.tcm-sec.com/c9a59387-41a4-4293-bf80-e6a8662caaa7" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114045944" width="60" height="60" /></a>
 <a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109125135" width="60" height="60" /></a>
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/tcm_sec.png" width="50" height="50" /></a>
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/86241211" width="60" height="60" /></a>
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83841692" width="60" height="60" /></a> 
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85592722" width="60" height="60" /></a>
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82089113" width="60" height="60" /></a> 
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/mandiant.png" width="50" height="50" /></a>
+<a href="https://www.emmanuelsolis.com/resume.html" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/tcm_sec.png" width="50" height="50" /></a>
+<a href="https://certs.ine.com/d3e68272-7a5b-44c3-8525-d83e60da9833" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/86241211" width="60" height="60" /></a>
+<a href="https://certs.ine.com/99ac697b-28ff-41b0-9613-c10e0ddb2179" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83841692" width="60" height="60" /></a> 
+<a href="https://certs.ine.com/75596272-8b3c-4c08-b99d-0a50bc60cb5e" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85592722" width="60" height="60" /></a>
+<a href="https://certs.ine.com/166ee02d-4554-4d7e-a97d-3a7eddbc4752" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82089113" width="60" height="60" /></a> 
+<a href="https://www.emmanuelsolis.com/resume.html" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/mandiant.png" width="50" height="50" /></a>
 
 
 
