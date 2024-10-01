@@ -59,6 +59,6 @@ I’m a passionate cybersecurity professional with a focus on red teaming and pe
 
 ### Socials
 <p align="center">
-<a href="https://www.github.com/emasp2001" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="filter: invert(100%)" width="32" height="32" /></a> 
+<a href="https://www.github.com/emasp2001" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="filter: invert(100%); width: 24px; height: 24px;"></a> 
 <a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
 <a href="https://www.emmanuelsolis.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
