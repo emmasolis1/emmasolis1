@@ -1,16 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Solis
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Emmanuel Solis
 ======================================================================================================================================
 
-Cybersecurity 🔒 & Software Developer 👨🏻‍💻
+Pentester 🕵️‍♂️ | Cybersecurity Specialist 🔒
 ---------------------------------------
 
-I have been learning about Cybersecurity, Machine Learning and Software Development since my early years in the university, I like keeping up with the latest technologies and tools.
+I’m a passionate cybersecurity professional with a focus on red teaming and penetration testing. I have knowledge in network, mobile, web, and Wi-Fi pentesting, and I leverage my knowledge in machine learning to enhance my security practices. I’m committed to staying updated with the latest technologies and tools in the field.
 
-*   🌍  I'm based in Costa Rica (willing to relocate).
-*   🖥️  See my portfolio at [GitHub](http://github.com/emasp2001/portfolio).
-*   ✉️  You can contact me at [usa.emmanuel@icloud.com](mailto:usa.emmanuel@icloud.com).
-*   🚀  I'm currently working at [Equifax](http://www.equifax.com) in Cybersecurity.
-*   🧠  I'm studying to become a Pentester.
+*   🖥️  Check my [website](https://www.emmanuelsolis.com).
+*   ✉️  You can contact me at [cr.emmanuel@icloud.com](mailto:cr.emmanuel@icloud.com).
 *   🤝  I'm open to questions and collaborate in projects.
 *   ⚡  I speak English 🇺🇸 and Spanish 🇪🇸.
 
