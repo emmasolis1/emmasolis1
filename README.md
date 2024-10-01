@@ -19,7 +19,14 @@ I’m a passionate cybersecurity professional with a focus on red teaming and pe
 <a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/85592722" width="60" height="60" /></a>
 <a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83841692" width="60" height="60" /></a>
 <a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/82089113" width="60" height="60" /></a>
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/tcm_sec.png" width="60" height="60" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/mandiant.png" width="60" height="60" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="60" height="60" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="60" height="60" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="60" height="60" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="60" height="60" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/palo_alto.png" width="60" height="60" /></a>
+<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/oas.png" width="60" height="60" /></a>
 
 ### Skills
 <p align="center">
