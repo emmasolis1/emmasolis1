@@ -13,14 +13,14 @@ I’m a passionate cybersecurity professional with a focus on red teaming and pe
 
 ### Certifications
 <p align="center">
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/oas.png" width="50" height="50" /></a>
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/palo_alto.png" width="50" height="50" /></a>
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="50" height="50" /></a>
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="50" height="50" /></a>
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="50" height="50" /></a>
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="50" height="50" /></a>
+<a href="https://www.emmanuelsolis.com/resume.html" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/oas.png" width="50" height="50" /></a>
+<a href="https://www.emmanuelsolis.com/resume.html" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/palo_alto.png" width="50" height="50" /></a>
+<a href="https://www.credly.com/badges/8960186c-2c86-40f1-b0ea-3c466a3f8d86/public_url" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="50" height="50" /></a>
+<a href="https://www.credly.com/badges/0649d37f-803f-44e8-a22a-1f2666404b31/public_url" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="50" height="50" /></a>
+<a href="https://www.credly.com/badges/0dcb30a2-b821-41e1-93a9-01da3e6cbb16/public_url" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="50" height="50" /></a>
+<a href="https://www.credly.com/badges/fce2c229-f8e4-46cf-aa40-c5f46924e580/public_url" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/rangeforce.png" width="50" height="50" /></a>
 <a href="https://certified.tcm-sec.com/c9a59387-41a4-4293-bf80-e6a8662caaa7" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/114045944" width="60" height="60" /></a>
-<a href="https://www.linkedin.com/in/emmasolis" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109125135" width="60" height="60" /></a>
+<a href="https://www.credential.net/a962ee5f-6415-4259-b8ed-8d9463723a44" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/109125135" width="60" height="60" /></a>
 <a href="https://www.emmanuelsolis.com/resume.html" target="_blank" rel="noreferrer"><img src="https://www.emmanuelsolis.com/img/tcm_sec.png" width="50" height="50" /></a>
 <a href="https://certs.ine.com/d3e68272-7a5b-44c3-8525-d83e60da9833" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/86241211" width="60" height="60" /></a>
 <a href="https://certs.ine.com/99ac697b-28ff-41b0-9613-c10e0ddb2179" target="_blank" rel="noreferrer"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83841692" width="60" height="60" /></a> 
